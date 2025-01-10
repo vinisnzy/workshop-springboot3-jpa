@@ -2,6 +2,7 @@ package com.vinisnzy.project.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
+import org.antlr.v4.runtime.misc.NotNull;
 
 import java.io.Serializable;
 import java.util.HashSet;
