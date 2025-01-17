@@ -10,7 +10,6 @@ Projeto desenvolvido em um workshop prático utilizando Java, Spring Boot 3 e JP
 - **H2** (banco de dados de teste)
 - **PostgreSQL** (banco de dados de produção)
 - **Postman**
-- **Heroku**
 
 ## ⌨️ Funcionalidades
 
@@ -20,7 +19,6 @@ Projeto desenvolvido em um workshop prático utilizando Java, Spring Boot 3 e JP
 - Estruturação do backend em camadas: **Resource**, **Service**, **Repository**.
 - Povoamento automático do banco de dados com dados iniciais.
 - Tratamento de exceções para operações de API.
-- Deploy da aplicação no **Heroku**.
 
 ## 👨‍💻 Como Executar
 
@@ -37,9 +35,5 @@ Projeto desenvolvido em um workshop prático utilizando Java, Spring Boot 3 e JP
 
 5. Testar com o Postman:
    Use os endpoints definidos no projeto para testar as operações CRUD.
-
-## 🚀 Deploy no Heroku
-
-A aplicação está configurada para ser executada no Heroku, utilizando o PostgreSQL como banco de dados em produção. Certifique-se de configurar as variáveis de ambiente no Heroku para as credenciais do banco.
 
 Feito com 💻 por Vinícius de Paula Moraes. Contribuições são bem-vindas! 😄
